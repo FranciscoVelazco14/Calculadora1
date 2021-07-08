@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+}
+
+button{
+    background-color:oldlace;
+    align-content: center;
+    text-align: center;
+    width: 4em;
+    margin: .5em;
+    padding: 2em;
+    border-color:lightblue solid;
+    border-radius: 4em;
+    block-size: 3em;
+}
+#Pantalla{
+    background-color: black;
+    font-size: 70px;
+    padding-bottom: 1px;
+    color:white;
+    text-align: end;
+    margin: 10px;
+}
+#todo{
+    display: block;
+    margin: auto;
+    width: 300px;   
+    padding: 15px;
+    border: 5px solid black   ;
+}
+#Casio{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding:1px;
+    margin: 1px;
+}
